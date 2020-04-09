@@ -1,0 +1,15 @@
+C:\Users\zbv8\source\repos\OnlineDatabase\OnlineDatabase\bin\Debug\OnlineDatabase.dacpac
+C:\Users\zbv8\source\repos\OnlineDatabase\OnlineDatabase\bin\Debug\OnlineDatabase.dll
+C:\Users\zbv8\source\repos\OnlineDatabase\OnlineDatabase\bin\Debug\OnlineDatabase.pdb
+C:\Users\zbv8\source\repos\OnlineDatabase\OnlineDatabase\obj\Debug\Model.xml
+C:\Users\zbv8\source\repos\OnlineDatabase\OnlineDatabase\obj\Debug\refactor.xml
+C:\Users\zbv8\source\repos\OnlineDatabase\OnlineDatabase\obj\Debug\postdeploy.sql
+C:\Users\zbv8\source\repos\OnlineDatabase\OnlineDatabase\obj\Debug\predeploy.sql
+C:\Users\zbv8\source\repos\OnlineDatabase\OnlineDatabase\obj\Debug\OnlineDatabase.dll
+C:\Users\zbv8\source\repos\OnlineDatabase\OnlineDatabase\obj\Debug\OnlineDatabase.pdb
+D:\OnlineShopping\OnlineDatabase\OnlineDatabase\bin\Debug\OnlineDatabase.dacpac
+D:\OnlineShopping\OnlineDatabase\OnlineDatabase\bin\Debug\OnlineDatabase.dll
+D:\OnlineShopping\OnlineDatabase\OnlineDatabase\bin\Debug\OnlineDatabase.pdb
+D:\OnlineShopping\OnlineDatabase\OnlineDatabase\obj\Debug\OnlineDatabase.sqlprojAssemblyReference.cache
+D:\OnlineShopping\OnlineDatabase\OnlineDatabase\obj\Debug\OnlineDatabase.dll
+D:\OnlineShopping\OnlineDatabase\OnlineDatabase\obj\Debug\OnlineDatabase.pdb
